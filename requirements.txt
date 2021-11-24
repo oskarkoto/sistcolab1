@@ -1,6 +1,6 @@
 jishaku~=2.0.0
 toml~=0.10.1
-uvloop~=0.15.0
+uvloop~=0.14.0
 parsedatetime~=2.6
 pytz
 discord.py-stubs~=1.7.1
